@@ -227,7 +227,7 @@ Every quarter, conduct a meta-review of your improvement process:
 - Abandon improvements too quickly
 - Keep ineffective processes just because "we always did it this way"
 - Forget to communicate changes
-- Create process for process' sake
+- Create process for process's sake
 
 ---
 
