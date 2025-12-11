@@ -23,6 +23,12 @@ Roles and personas are sharply defined in the OctoAcme model. Product Managers s
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Learning from projects and capturing improvements
 - [Roles & Personas](octoacme-roles-and-personas.md) - Detailed role definitions and responsibilities
 
+### Process Templates & Best Practices
+
+- [Communication Best Practices](communication-best-practices.md) - Guidelines for effective team and stakeholder communication
+- [Stakeholder Feedback Process](stakeholder-feedback-process.md) - Systematic approach to collecting and acting on stakeholder feedback
+- [Metric Reporting Template](metric-reporting-template.md) - Standardized templates for project metrics and reporting
+
 ## Maintenance
 
 This README should be maintained and updated as new process documents are added or evolved. When adding new guides or updating existing ones, please ensure this index remains current and accurate.
